@@ -20,11 +20,11 @@ const Body = () => {
 						</button>
 					</div>
 				</div>
-				<div className="flex items-center justify-start gap-4 mt-4">
-					<img src="/src/icons/client-databiz.svg" alt="brand" />
-					<img src="/src/icons/client-audiophile.svg" alt="brand" />
-					<img src="/src/icons/client-meet.svg" alt="brand" />
-					<img src="/src/icons/client-maker.svg" alt="brand" />
+				<div className="flex items-center justify-start gap-8 mt-4">
+					<img src="/icons/client-databiz.svg" alt="brand" />
+					<img src="/icons/client-audiophile.svg" alt="brand" />
+					<img src="/icons/client-meet.svg" alt="brand" />
+					<img src="/icons/client-maker.svg" alt="brand" />
 				</div>
 			</section>
 			<section>
