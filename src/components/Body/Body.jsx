@@ -28,11 +28,7 @@ const Body = () => {
 				</div>
 			</section>
 			<section>
-				<img
-					src="/src/photos/image-hero-desktop.png"
-					alt="image"
-					className="h-[620px] "
-				/>
+				<img src="/photos/image-hero-desktop.png" alt="image" className="h-[620px] " />
 			</section>
 		</main>
 	);

@@ -3,19 +3,19 @@ const Header = () => {
 		<nav className="flex  justify-between m-7   ">
 			<div className="flex gap-20 justify-center items-center">
 				<div className="mt-3">
-					<img src="/src/icons/logo.svg" alt="Logo" />
+					<img src="/icons/logo.svg" alt="Logo" />
 				</div>
 				<div className="flex gap-5">
-					<div className="flex items-center   gap-2">
+					<div className="flex items-center gap-2">
 						<h3>Features</h3>
 						<a className="mt-1.5">
-							<img src="/src/icons/icon-arrow-down.svg" alt="arrow down" />
+							<img src="/icons/icon-arrow-down.svg" alt="arrow down" />
 						</a>
 					</div>
 					<div className="flex items-center  gap-2 ">
 						<h3>Company</h3>
 						<a className="mt-1.5">
-							<img src="/src/icons/icon-arrow-down.svg" alt="arrow down" />
+							<img src="/icons/icon-arrow-down.svg" alt="arrow down" />
 						</a>
 					</div>
 					<div>
